@@ -1,4 +1,4 @@
-## Desafio de projeto a fins de estudo
+## Desafio de projeto afins de estudo
 [Projeto Base](https://github.com/digitalinnovationone/formacao-nodejs/tree/main/projeto-qrcode)
 
 ## 💻 Sobre o Projeto
